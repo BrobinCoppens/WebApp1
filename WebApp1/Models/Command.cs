@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace WebApp1.Models
 {
-    public class Command
+    public class Command 
     {
         [Key]
         public int Id { get; set; }
